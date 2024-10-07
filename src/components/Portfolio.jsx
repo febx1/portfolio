@@ -10,48 +10,31 @@ import Reveal from "./Reveal";
 const projects = [
   {
     img: project1,
-    title: "Project #1",
-    description: "UI for frontend development using React.",
+    title: "Project #1 : NFT Space",
+    description:
+      "NFT market place build with PHP,JS,Jquery,Bootstrap and MY sql",
     links: {
       site: "#",
-      github: "#",
+      github: "https://github.com/febx1/NFT",
     },
   },
   {
     img: project2,
-    title: "Project #2",
-    description: "A fullstack application built with Node.js and MongoDB.",
+    title: "Project #2 : 3D site build with three.js and react",
+    description: "3D site build with three.js and react",
     links: {
-      site: "#",
-      github: "#",
+      site: "https://threejs-project-eczn9j87b-febx1s-projects.vercel.app/",
+      github: "https://github.com/febx1/Threejs-Project",
     },
   },
   {
-    img: project4,
-    title: "Project #3",
-    description: "An e-commerce platform with various features.",
-    links: {
-      site: "#",
-      github: "#",
-    },
-  },
-  {
-    img: project5,
-    title: "Project #4",
-    description: "A mobile-friendly application using React Native.",
-    links: {
-      site: "#",
-      github: "#",
-    },
-  },
-  {
-    img: project6,
-    title: "Project #5",
+    img: project3,
+    title: "Project #3 : Angular Dashboard",
     description:
-      "A data visualization project using D3.js and other libraries.",
+      "Analytical dashboard with Angular,Apex charts,SCSS and Bootstrap",
     links: {
       site: "#",
-      github: "#",
+      github: "https://github.com/febx1/Dashboard",
     },
   },
 ];
