@@ -14,17 +14,19 @@ const Contact = () => {
                 About <span>Me</span>
               </h3>
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa
-                eos, quam vel quisquam, explicabo sit labore dignissimos optio
-                ratione quibusdam doloribus pariatur consequuntur sint.
-                Reprehenderit cupiditate possimus facere quasi voluptatem?
+                As a passionate and skilled web developer, I specialize in
+                creating dynamic, user-friendly websites tailored to your unique
+                needs. Whether you need a sleek portfolio, an e-commerce
+                platform, or a full-scale web application, I’ve got the
+                expertise to turn your ideas into a digital reality. Let’s
+                collaborate and build something exceptional together.
               </p>
             </div>
 
             <div className="flex mt-10 items-center gap-7">
               <div className="bg-gray-800/40 p-4 rounded-lg">
                 <h3 className="md:text-4xl text-2xl font-semibold text-white">
-                  11
+                  10
                   <span>+</span>
                 </h3>
                 <p className="text-xs md:text-base">
@@ -37,14 +39,13 @@ const Contact = () => {
                   5<span>+</span>
                 </h3>
                 <p className="text-xs md:text-base">
-                  <span>years of experience</span>
+                  <span>years of experience in development</span>
                 </p>
               </div>
 
               <div className="bg-gray-800/40 p-5 rounded-lg">
                 <h3 className="md:text-4xl text-2xl font-semibold text-white">
-                  30
-                  <span>+</span>
+                  5<span>+</span>
                 </h3>
                 <p className="text-xs md:text-base">
                   <span>happy clients</span>
