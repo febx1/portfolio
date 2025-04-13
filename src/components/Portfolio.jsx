@@ -23,7 +23,7 @@ const projects = [
     title: "Project #2 : 3D site build with three.js and react",
     description: "3D site build with three.js and react",
     links: {
-      site: "https://threejs-pro`ject-eczn9j87b-febx1s-projects.vercel.app/",
+      site: "https://threejs-project-seven.vercel.app/",
       github: "https://github.com/febx1/Threejs-Project",
     },
   },
